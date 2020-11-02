@@ -1,0 +1,49 @@
+/*td {
+ background-color: red;
+}
+*/
+
+
+/*td{
+	border: 5px red;
+}  */
+
+table{
+	border: 10px solid blue;
+	width: 50%;
+	height: 60%;
+	border-spacing:2px 15px
+}
+
+table, tr{
+padding: 12px;
+}
+
+
+tr{
+padding: 50px;
+}
+
+.tdTheme1{
+	border: 2px solid blue;
+	text-align: center;
+	font-weight: bold; 
+	font-size: 30px; 
+	text-transform: uppercase;
+}
+
+#idRegisterBtn{
+	background-color: lightblue;
+	width: 215px;
+	height: 50px;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.tdTheme2{
+	background-color: lightblue;
+}
+
+body{
+	background-color: #ffb6c1;
+}
